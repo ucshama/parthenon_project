@@ -17,7 +17,7 @@ menuPosition: 1
 	- Edit the `something.md` files in the root folder and unit descriptions in `_syllabus/`.
 
 
-## Why to enroll?
+## Why enroll?
 
 - There's a good reason.
 - And another one.
