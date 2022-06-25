@@ -28,4 +28,4 @@ A template for a [Github Pages](https://pages.github.com) hosted syllabus.
 
 
 
-Licensed under MIT License.
+Licensed under [MIT License](./LICENSE).
