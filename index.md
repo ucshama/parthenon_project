@@ -50,3 +50,4 @@ While the digital tools and methods that are going to be presented will be exemp
 **Week 5–7:** Something not that basic.
 
 **Week 8-12:** There will be sweat.
+
