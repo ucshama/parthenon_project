@@ -35,12 +35,12 @@ Upon completion of this class, you will be able to use, evaluate, and apply to t
 - analyzing geographical data and create maps
 - creating and analyzing a social network
 
-Moreover, students will gain experience and take a critical view on the existing online digital resources for the Greek and Roman antiquity. Following the criteria set by Bagnall and Heath (2019), students will be able to critically approach digital tools on basis of their:
+Moreover, students will gain experience and take a critical view on the existing online digital resources for the Greek and Roman antiquity. Following the criteria set by [Bagnall and Heath (2019)](https://www.cambridge.org/core/journals/journal-of-roman-studies/article/roman-studies-and-digital-resources/D565703075B03A3F45A5FEE4DF608788), students will be able to critically approach digital tools on basis of their:
 - permanence and sustainability
 - openness or restriction of their data
 - functionality of their interface and interaction with their data
 - connectivity across resources (under the principles of Linked Open Data)
-- 
+
 Thus, the students will be able to actively use modern technology in learning, understanding, and explaining the ancient world; to evaluate the plethora of new tools that become available on almost daily basis; and to set clear goals for their own projects in their professional lives.
 
 While the digital tools and methods that are going to be presented will be exemplified by paradigms taken from the ancient world, the skills that the students will acquire are transferable to other fields of humanities.
