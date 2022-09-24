@@ -1,5 +1,5 @@
 ---
-title: "Course name"
+title: "Digital Humanities for the Ancient World"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
@@ -25,8 +25,23 @@ menuPosition: 1
 [Enroll right now!](https://your-school-information-system.edu/course-page)
 
 ## Course goals
+Upon completion of this class, you will be able to use, evaluate, and apply to the study of the ancient world a set of software and methods, such as: 
+•	creating or design a 3D model
+•	coding with Python and handling a series of filetypes
+•	creating and query a database
+•	publishing a text in html and xml format
+•	publishing a series of texts as a corpus
+•	analyzing geographical data and create maps
+•	creating and analyzing a social network
 
-Students will be able to…
+Moreover, students will gain experience and take a critical view on the existing online digital resources for the Greek and Roman antiquity. Following the criteria set by Bagnall and Heath (2019), students will be able to critically approach digital tools on basis of their:
+•	permanence and sustainability
+•	openness or restriction of their data
+•	functionality of their interface and interaction with their data
+•	connectivity across resources (under the principles of Linked Open Data)
+Thus, the students will be able to actively use modern technology in learning, understanding, and explaining the ancient world; to evaluate the plethora of new tools that become available on almost daily basis; and to set clear goals for their own projects in their professional lives.
+While the digital tools and methods that are going to be presented will be exemplified by paradigms taken from the ancient world, the skills that the students will acquire are transferable to other fields of humanities.
+
 
 
 ## Lectures/seminars
