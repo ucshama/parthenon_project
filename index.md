@@ -8,6 +8,13 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
+## Lectures/seminars
+
+Mondays, Wednesdays, Fridays 14:30-15:20
+
+Green Hall 117
+
+
 ## What is this course about?
 
 Would you like to make and print a 3D copy of your favorite ancient object? Do you want to learn how to design a map of the ancient world? How about creating a Facebook for ancient people?
@@ -35,11 +42,6 @@ Thus, the students will be able to actively use modern technology in learning, u
 While the digital tools and methods that are going to be presented will be exemplified by paradigms taken from the ancient world, the skills that the students will acquire are transferable to other fields of humanities.
 
 
-
-## Lectures/seminars
-
-Mondays, Wednesdays, Fridays 14:30-15:20
-Green Hall 117
 
 ## Basic course structure
 
