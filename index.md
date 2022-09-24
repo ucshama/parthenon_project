@@ -8,6 +8,13 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
+## Lectures/seminars
+
+Mondays, Wednesdays, Fridays 14:30-15:20
+
+Green Hall 117
+
+
 ## What is this course about?
 
 Would you like to make and print a 3D copy of your favorite ancient object? Do you want to learn how to design a map of the ancient world? How about creating a Facebook for ancient people?
@@ -36,11 +43,6 @@ While the digital tools and methods that are going to be presented will be exemp
 
 
 
-## Lectures/seminars
-
-Mondays, Wednesdays, Fridays 14:30-15:20
-Green Hall 117
-
 ## Basic course structure
 
 **Week 1–4:** Something basic.
@@ -48,4 +50,3 @@ Green Hall 117
 **Week 5–7:** Something not that basic.
 
 **Week 8-12:** There will be sweat.
-
