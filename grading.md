@@ -10,6 +10,7 @@ Your final grade will be calculated in a 100-point scale by adding up the differ
 ## Grading Scale
 
 | Letter Grade | Points |  | Letter Grade | Points
+| --- | --- |  | --- | --- |
 | A+ | 97-100 |  | C+ | 76-79
 | A | 93-96 |  | C | 73-76
 | A- | 90-92 |  | C- | 70-73
