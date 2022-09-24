@@ -7,7 +7,7 @@ courseName: Digital Humanities for the Ancient World
 subtitle: GHS101 course syllabus — spring semester 2022
 
 # baseurl is the same as the name of the repository
-baseurl: tsolakisgeo/DHAW2022
+baseurl: /tsolakisgeo/DHAW2022
 
 # url where the required reading is available to download
 docsUrl: "" 
