@@ -2,7 +2,7 @@
 title: Grading
 layout: page
 menuItem: Grading
-menuPosition: 3
+menuPosition: 4
 ---
 
 Your final grade will be calculated in a 100-point scale by adding up the different components indicated below. You will need at least a D- to pass the class.
