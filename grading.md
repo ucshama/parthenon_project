@@ -20,62 +20,62 @@ Use a nice table to present the basics.
 
 		<tr>
 		<td>A+</td>
-		<td>97-100</b></td>
+		<td>97-100</td>
 		</tr>
 
 		<tr>
 		<td>A</td>
-		<td>93-96</b></td>
+		<td>93-96</td>
 		</tr>
 
 		<tr>
 		<td>A-</td>
-		<td>90-92</b></td>
+		<td>90-92</td>
 		</tr>
 
 		<tr>
 		<td>B+</td>
-		<td>87-89</b></td>
+		<td>87-89</td>
 		</tr>
 
 		<tr>
 		<td>B</td>
-		<td>83-86</b></td>
+		<td>83-86</td>
 		</tr>
 
 		<tr>
 		<td>B-</td>
-		<td>80-82</b></td>
+		<td>80-82</td>
 		</tr>
 
 		<tr>
 		<td>C+</td>
-		<td>76-79</b></td>
+		<td>76-79</td>
 		</tr>
 
 		<tr>
 		<td>C</td>
-		<td>73-76</b></td>
+		<td>73-76</td>
 		</tr>
 
 		<tr>
 		<td>C-</td>
-		<td>70-73</b></td>
+		<td>70-73</td>
 		</tr>
 
 		<tr>
 		<td>D+</td>
-		<td>67-69</b></td>
+		<td>67-69</td>
 		</tr>
 
 		<tr>
 		<td>D</td>
-		<td>64-66</b></td>
+		<td>64-66</td>
 		</tr>
 
 		<tr>
 		<td>D-</td>
-		<td>60-63</b></td>
+		<td>60-63</td>
 		</tr>
 
 	</tbody>
