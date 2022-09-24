@@ -1,4 +1,4 @@
-# gh-syllabus
+# Digital Humanities for the Ancient World - Syllabus
 
 A template for a [Github Pages](https://pages.github.com) hosted syllabus.
 
