@@ -8,23 +8,15 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-<!-- - This is a **template of a course syllabus microsite** based on Jekyll/Github Pages. (Licensed under MIT: use at will!)
-- See [a live example of a syllabus](http://jan-martinek.github.io/ktai.peerb/) in the wild.
-- Clone [the repository](https://github.com/jan-martinek/gh-syllabus) and do your magic! 
-- Only basic HTML/Markdown and Github knowledge is needed.
-	- Website contents are in the `gh-pages` branch (read more about [Github Pages](https://pages.github.com)). 
-	- Github automagically generates a nice website at `http://your-username.github.io/repository-name/`.
-	- Edit the `something.md` files in the root folder and unit descriptions in `_syllabus/`. -->
+## What is this course about?
+
+Would you like to make and print a 3D copy of your favorite ancient object? Do you want to learn how to design a map of the ancient world? How about creating a Facebook for ancient people?
+This class offers a hands-on introduction to the field of digital humanities with a special focus on ancient Greek and Roman antiquity. It is hard to provide a commonly accepted definition of Digital Humanities (DH). For the purpose of this class, however, we will define DH as a discipline that runs across the fields of humanities, whose scholars aim not only to study the different manifestations of human cultures and societies, but also to participate actively in using and developing computational tools that facilitate their work. 
+With the goal of critically engaging with technology, not simply using it, we will combine reading discussions about DH approaches with weekly digital assignments in a variety of areas.  We will, for example, learn about the effective use of technology: to understand, describe, and interpret ancient society; to model and even recreate ancient objects and understand their significance in everyday life; and to visualize people’s social and economic behavior. The course includes weekly reading and digital humanities assignments and will conclude with a final research project.
+The course includes weekly reading and digital humanities assignments and will conclude with a final research project.
 
 
-## Why enroll?
-
-- There's a good reason.
-- And another one.
-
-[Enroll right now!](https://your-school-information-system.edu/course-page)
-
-## Course goals
+## What you will learn
 Upon completion of this class, you will be able to use, evaluate, and apply to the study of the ancient world a set of software and methods, such as: 
 •	creating or design a 3D model
 •	coding with Python and handling a series of filetypes
@@ -46,8 +38,8 @@ While the digital tools and methods that are going to be presented will be exemp
 
 ## Lectures/seminars
 
-When and where.
-
+Mondays, Wednesdays, Fridays 14:30-15:20
+Green Hall 117
 
 ## Basic course structure
 
@@ -57,12 +49,3 @@ When and where.
 
 **Week 8-12:** There will be sweat.
 
-
-## Teaching methods
-
-* **Method**: this is what I believe is the right way.
-
-
-## Enrollment requirements
-
-Course capacity, prerequisites, eligibilities etc.
