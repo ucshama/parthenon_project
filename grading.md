@@ -1,7 +1,7 @@
 ---
 title: Grading
 layout: page
-menuItem: Course requirements
+menuItem: Grading
 menuPosition: 3
 ---
 
