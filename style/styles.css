@@ -152,7 +152,7 @@ nav .hover a {
 	text-decoration: none;
 }
 
-nav .active a {
+nav li:not(.active) a:hover {
 	font-weight: bold;
 	color: gray;
 	text-decoration: none;
