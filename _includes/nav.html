@@ -6,7 +6,7 @@
 		{% if page.url == node.url %}
 		<li class="active"><a href="{{ site.baseurl }}{{node.url}}" class="active">{{node.menuItem}}</a></li>
 		{% else %}
-		<li><a href="{{ site.baseurl }}{{node.url}}">{{node.menuItem}}</a></li>
+		<li><b href="{{ site.baseurl }}{{node.url}}">{{node.menuItem}}</b></li>
 		{% endif %}
 		{% endfor %}
 	</ul>
