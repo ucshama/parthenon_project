@@ -4,9 +4,9 @@
 		{% assign pages = (site.pages | sort: "menuPosition") %}
 		{% for node in pages %}
 		{% if page.url == node.url %}
-		<li class="active"><a href="{{ site.baseurl }}{{node.url}}" class="active">{{node.menuItem}}</a></li>
+		<li class="active"><b href="{{ site.baseurl }}{{node.url}}" class="active">{{node.menuItem}}</b></li>
 		{% else %}
-		<li><a href="{{ site.baseurl }}{{node.url}}">{{node.menuItem}}</a></li>
+		<li><b href="{{ site.baseurl }}{{node.url}}">{{node.menuItem}}</b></li>
 		{% endif %}
 		{% endfor %}
 	</ul>
