@@ -109,7 +109,7 @@ b:visited {
 	color: white;
 }
 
-a:hover {
+b:hover {
 	color: gray;
 /* 	border-bottom-color: rgba(217,220,223, .7); */
 }
