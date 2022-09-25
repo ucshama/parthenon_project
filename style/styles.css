@@ -81,9 +81,9 @@ a {
 /* 	border-bottom: 3px solid rgba(255, 255, 255, .1); */
 }
 
-a:visited {
+/* a:visited {
 	color: blue;
-}
+} */
 
 a:hover {
 	color: DarkBlue;
