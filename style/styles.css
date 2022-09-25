@@ -1,6 +1,14 @@
 html, body {
-	background: #eee;
+background: url(../style/header.jpg) top left no-repeat;
+background-color: #282d37;
+height: 900px;
+width: 955px;
 }
+
+/* 
+{
+	background: #eee;
+} */
 @media screen and (max-width: 69.999rem) {
 	html, body { margin: 0; padding: 0 }
 }
