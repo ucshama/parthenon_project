@@ -96,34 +96,6 @@ a[href$='.pdf'] {
 	padding-left: 18px;
 }
 
-
-
-
-b {
-	text-decoration: none;
-	color: white;
-/* 	border-bottom: 3px solid rgba(255, 255, 255, .1); */
-}
-
-b:visited {
-	color: white;
-}
-
-b:hover {
-	color: gray;
-/* 	border-bottom-color: rgba(217,220,223, .7); */
-}
-
-b[href$='.pdf'] {
-	background: transparent url(pdf.png) center left no-repeat;
-	display: inline-block;
-	padding-left: 18px;
-}
-
-
-
-
-
 .subtitle {
 	border-bottom: 3px solid rgba(0, 0, 0, .1);
 	padding-bottom: .5rem;
@@ -165,11 +137,13 @@ b[href$='.pdf'] {
 
 nav ul, nav li {
 	list-style-type: none;
+	color: white;
 	padding: 0;
 }
 
 nav .active a {
 	font-weight: bold;
+	color: gray;
 	text-decoration: none;
 }
 
