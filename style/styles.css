@@ -82,11 +82,11 @@ a {
 }
 
 a:visited {
-	color: white;
+	color: blue;
 }
 
 a:hover {
-	color: gray;
+	color: DarkBlue;
 /* 	border-bottom-color: rgba(217,220,223, .7); */
 }
 
