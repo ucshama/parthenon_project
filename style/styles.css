@@ -150,6 +150,11 @@ nav .active a {
 	text-decoration: none;
 }
 
+nav .visited a {
+	color: white;
+	text-decoration: none;
+}
+
 td.icon {
 	font-size: 3rem;
 	text-align: center;
