@@ -76,15 +76,15 @@ table tr:nth-child(odd) td, table tr:nth-child(odd) th {
 
 a {
 	text-decoration: none;
-	border-bottom: 3px solid rgba(0, 0, 238, .1);
+	border-bottom: 3px solid rgba(0, 0, 0, .1);
 }
 
 a:visited {
-	border-bottom-color: rgba(85, 26, 139, .1);
+	border-bottom-color: rgba(0, 0, 0, .1);
 }
 
 a:hover {
-	border-bottom-color: rgba(0, 0, 238, .3);
+	border-bottom-color: rgba(232,232,232, .3);
 }
 
 a[href$='.pdf'] {
