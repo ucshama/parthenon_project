@@ -152,11 +152,11 @@ nav a:hover  {
 	text-decoration: none;
 }
 
-/* nav li:not(.active) a:hover {
-	font-weight: bold;
+nav .active a {
 	color: gray;
+	font-weight: bold;
 	text-decoration: none;
-} */
+}
 
 nav .visited a {
 	color: white;
