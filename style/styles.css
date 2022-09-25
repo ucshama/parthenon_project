@@ -81,11 +81,11 @@ a {
 }
 
 a:visited {
-	border-bottom-color: rgba(0, 0, 0, .1);
+	border-bottom-color: rgba(0, 0, 0, 1);
 }
 
 a:hover {
-	border-bottom-color: rgba(232,232,232, .3);
+	border-bottom-color: rgba(232,232,232, 1);
 }
 
 a[href$='.pdf'] {
