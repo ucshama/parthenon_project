@@ -147,14 +147,14 @@ nav a {
 	text-decoration: none;
 }
 
-nav .active a {
-	font-weight: bold;
-	color: gray;
+nav .hover a {
+	color: white;
 	text-decoration: none;
 }
 
-nav .hover a {
-	color: white;
+nav .active a {
+	font-weight: bold;
+	color: gray;
 	text-decoration: none;
 }
 
