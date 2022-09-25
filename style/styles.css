@@ -156,6 +156,10 @@ nav .visited a {
 	text-decoration: none;
 }
 
+nav .hover a {
+	color: white;
+}
+
 td.icon {
 	font-size: 3rem;
 	text-align: center;
