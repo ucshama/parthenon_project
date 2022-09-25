@@ -137,10 +137,13 @@ a[href$='.pdf'] {
 
 nav ul, nav li {
 	list-style-type: none;
-	color: white;
 	padding: 0;
 }
 
+nav a {
+	color: white;
+	text-decoration: none;
+}
 nav .active a {
 	font-weight: bold;
 	color: gray;
