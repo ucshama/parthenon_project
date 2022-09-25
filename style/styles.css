@@ -183,9 +183,10 @@ td.icon {
 	border: 0;
 }
 .unitPagination a:hover {
-	color: white;
+	color: darkblue;
+	font-weight: bold;
 	text-decoration: none;
-	background: rgb(0, 0, 238);
+/* 	background: rgb(0, 0, 238); */
 }
 .unitPagination .next {
 	float: right;
