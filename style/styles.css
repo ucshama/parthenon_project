@@ -163,6 +163,10 @@ nav .visited a {
 	text-decoration: none;
 }
 
+nav {
+  	background: #161f26;
+}
+
 td.icon {
 	font-size: 3rem;
 	text-align: center;
