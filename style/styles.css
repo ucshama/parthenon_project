@@ -121,7 +121,6 @@ a[href$='.pdf'] {
 
 @media screen and (min-width: 70rem) {
 	nav {
-		background: #161f26;
 		float: left;
 		margin-left: -12rem;	
 		width: 12rem;
