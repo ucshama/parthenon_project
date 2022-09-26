@@ -6,20 +6,20 @@ tags: [tag, tag]
 ---
 
 ## Assignment due: 
-- blah, blah, blah 
-- blah, blah, blah 
+- TBD 
+- TBD 
 
 ## Before Class 
-- blah, blah, blah 
-- blah, blah, blah 
+- TBD 
+- TBD 
 
 ## Reading 
-- blah, blah, blah 
-- blah, blah, blah 
+- TBD 
+- TBD 
 
 ## Familiarize yourself with: 
-- blah, blah, blah 
-- blah, blah, blah 
+- TBD 
+- TBD 
 
 ## Notes 
 - blah, blah, blah
