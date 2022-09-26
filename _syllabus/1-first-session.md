@@ -1,6 +1,6 @@
 ---
 class: 1
-day: September 28
+day: Wednesday, September 28
 title: Introduction
 tags: 
 ---
