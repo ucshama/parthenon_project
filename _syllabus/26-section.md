@@ -1,7 +1,7 @@
 ---
 class: 26
 day: Friday, December 2
-title: ##############
+title: test
 tags: [tag, tag]
 ---
 

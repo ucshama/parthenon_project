@@ -1,7 +1,7 @@
 ---
 class: 25
 day: Wednesday, November 30
-title: ##############
+title: test
 tags: [tag, tag]
 ---
 

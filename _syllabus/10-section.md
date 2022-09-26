@@ -1,7 +1,7 @@
 ---
 class: 10
 day: Wednesday, October 19
-title: ##############
+title: test
 tags: [tag, tag]
 ---
 

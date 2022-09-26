@@ -1,7 +1,7 @@
 ---
 class: 2
 day: Friday, September 30
-title: ##############
+title: test
 tags: [tag, tag]
 ---
 

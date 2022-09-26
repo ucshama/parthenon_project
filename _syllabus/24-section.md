@@ -1,7 +1,7 @@
 ---
 class: 24
 day: Monday, November 28
-title: ##############
+title: test
 tags: [tag, tag]
 ---
 

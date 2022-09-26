@@ -1,7 +1,7 @@
 ---
 class: 8
 day: Friday, October 14
-title: ##############
+title: test
 tags: [tag, tag]
 ---
 

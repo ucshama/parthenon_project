@@ -1,7 +1,7 @@
 ---
 class: 23
 day: Friday, November 18
-title: ##############
+title: test
 tags: [tag, tag]
 ---
 
