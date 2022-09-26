@@ -8,9 +8,9 @@ width: 955px; */
 }
 
 
-/* {
+{
 	background: #eee;
-} */
+}
 @media screen and (max-width: 69.999rem) {
 	html, body { margin: 0; padding: 0 }
 }
