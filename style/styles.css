@@ -12,7 +12,7 @@ width: 955px; */
 	background: #eee;
 } */
 @media screen and (max-width: 69.999rem) {
-	html, body { margin: 0.1; padding: 0.1; background: #161f26;}
+	html, body { margin: 0; padding: 0 }
 }
 
 * {
@@ -131,10 +131,9 @@ a[href$='.pdf'] {
 }
 @media screen and (max-width: 69.999rem) {
 	nav {
-
+		background: #161f26;
 		border-bottom: 3px solid rgba(0, 0, 0, .1);
 		padding-bottom: .5rem;
-		padding-right: .3rem; 
 		margin-bottom: 1rem;
 	}
 }
