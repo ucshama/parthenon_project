@@ -138,6 +138,15 @@ a[href$='.pdf'] {
 	}
 }
 
+@media screen and (max-width: 69.999rem) {
+	nav ul, nav li {
+		background: #161f26;
+		color: white;
+		list-style-type: none;
+		padding: 0;
+	}
+}
+
 nav ul, nav li {
 	color: white;
 	list-style-type: none;
