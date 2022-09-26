@@ -1,5 +1,5 @@
 ---
-Class: 26
+class: 26
 day: Friday, December 2
 title: ##############
 tags: [tag, tag]

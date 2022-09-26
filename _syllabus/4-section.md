@@ -1,5 +1,5 @@
 ---
-Class: 4
+class: 4
 day: Wednesday, October 5
 title: ##############
 tags: [tag, tag]

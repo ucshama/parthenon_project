@@ -1,5 +1,5 @@
 ---
-Class: 22
+class: 22
 day: Wednesday, November 16
 title: ##############
 tags: [tag, tag]

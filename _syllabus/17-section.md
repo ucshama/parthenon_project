@@ -1,5 +1,5 @@
 ---
-Class: 17
+class: 17
 day: Friday, November 4
 title: ##############
 tags: [tag, tag]

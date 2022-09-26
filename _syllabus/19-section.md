@@ -1,5 +1,5 @@
 ---
-Class: 19
+class: 19
 day: Wednesday, November 9
 title: ##############
 tags: [tag, tag]

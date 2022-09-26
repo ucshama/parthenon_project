@@ -1,5 +1,5 @@
 ---
-Class: 24
+class: 24
 day: Monday, November 28
 title: ##############
 tags: [tag, tag]

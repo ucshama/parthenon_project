@@ -1,5 +1,5 @@
 ---
-Class: 21
+class: 21
 day: Monday, November 14
 title: ##############
 tags: [tag, tag]

@@ -1,5 +1,5 @@
 ---
-Class: 14
+class: 14
 day: Friday, October 28
 title: ##############
 tags: [tag, tag]
