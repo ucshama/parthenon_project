@@ -126,6 +126,7 @@ a[href$='.pdf'] {
 }
 @media screen and (max-width: 69.999rem) {
 	nav {	
+		margin: 0 0 .2rem;
 		background: #161f26;
 		border-bottom: 3px solid rgba(0, 0, 0, .1);
 /* 		padding-bottom: .5rem; */
@@ -135,6 +136,7 @@ a[href$='.pdf'] {
 
 @media screen and (max-width: 69.999rem) {
 	nav ul, nav li {
+		margin: 0 0 .2rem;
 		background: #161f26;
 		color: white;
 		list-style-type: none;
