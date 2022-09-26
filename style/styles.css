@@ -135,9 +135,10 @@ a[href$='.pdf'] {
 	nav {
 		border-bottom: 3px solid rgba(0, 0, 0, .1);
 		padding-bottom: .5rem;
+		padding-right: .3rem; 
 		margin-bottom: 1rem;
 		background: #161f26;
-		padding-right: 3rem; 
+		
 	}
 }
 
