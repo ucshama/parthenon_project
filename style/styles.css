@@ -120,7 +120,7 @@ a[href$='.pdf'] {
 		float: left;
 		margin-left: -12rem;	
 		width: 12rem;
-/* 		padding-right: 3rem; */
+		padding-right: 3rem;
 		margin-top: 100px;
 	}		
 }
