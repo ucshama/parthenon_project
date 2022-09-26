@@ -1,21 +1,18 @@
 ---
-week: 1
-day: September 1
-title: First session
-tags: [hello]
+class: 1
+day: Wednesday, September 28
+title: Introduction
+tags: 
 ---
-### Surname, Name: _Book title_
 
-City: Publisher, 2017\. ISBN 123-45-678-9012-3.  
-**Required excerpt: p. 55–90 (35 pages). [PDF]({{ site.docsUrl }}article.pdf)**
+## Before Class
+- Create an account on [github](http://www.github.com)
+- Download [GitHub Desktop](https://desktop.github.com)
 
-### Surname, Name: _Article title_  
+## Reading
+- Brennan, T. (2017) “The Digital-Humanities Bust: After a decade of investment and hype, what has the field accomplished? Not much,” _The Chronicle of Higher Education_ <http://www.chronicle.com/article/The-Digital-Humanities-Bust/241424>.
+- Bond, S. E., Long, H. (2017) “‘Digital’ Is Not the Opposite of ‘Humanities’,” _The Chronicle of Higher Education_ <http://www.chronicle.com/article/Digital-Is-Not-the/241634>.
 
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
-**Entire article required (~5 pages). [PDF]({{ site.docsUrl }}cached-to-be-sure.pdf)**
 
-## Recommended reading
-
-### Surname, Name: _Article title_  
-
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
+## Notes
+- Reminder to bring notebook computer to class.

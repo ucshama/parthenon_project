@@ -25,7 +25,7 @@ Your final grade will be calculated in a 100-point scale by adding up the differ
 You will get 10 points for attending all twenty sections of the class. Special accommodations in case of absence due to medical reasons or other emergencies are possible. Contact the instructor in advance if you are going to miss a class.
 
 
-## Participation (15 points)
+## Participation (14 points)
 
 Your participation in class discussions is a very important element for succeeding in this course. Effective participation includes:
 - Doing the readings in advance and joining the discussion in class.
@@ -37,7 +37,7 @@ If for any reason you cannot attend class, please notify me in advance. In cases
 
 ## Weekly responses (16 points)
 In every second meeting from Week 1 to Week 8, students are asked to submit a response worth 2 points. Your weekly responses are twofold:
-#### 1. Response paper (1.5 points)
+### 1. Response paper (1.5 points)
 You have to submit a response paper (max. 200 words) to one of the assigned articles. The paper is due before you arrive in class on the designated day. The aim of this assignment is for you to critically engaged with the assigned article. To do so effectively, make sure you are addressing:
 1. What is the authors’ thesis? 
 2. What types of evidence are they using? 
