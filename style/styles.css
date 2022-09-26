@@ -126,13 +126,17 @@ a[href$='.pdf'] {
 		width: 12rem;
 		padding-right: 3rem;
 		margin-top: 100px;
+		background: #161f26;
+}
+
 	}		
 }
 @media screen and (max-width: 69.999rem) {
 	nav {
 		border-bottom: 3px solid rgba(0, 0, 0, .1);
 		padding-bottom: .5rem;
-		margin-bottom: 1rem;	
+		margin-bottom: 1rem;
+		background: #161f26;
 	}
 }
 
@@ -161,10 +165,6 @@ nav .active a {
 nav .visited a {
 	color: white;
 	text-decoration: none;
-}
-
-nav {
-  	background: #161f26;
 }
 
 td.icon {
