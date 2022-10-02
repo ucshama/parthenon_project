@@ -3,7 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-<p><b>{{ page.day }} / Week {{ page.week }}</b></p>
+<p><b>{{ page.day }} / Class {{ page.class }}</b></p>
 
 <h1>
 	{{ page.title }}
@@ -19,7 +19,7 @@ layout: default
 
 {% capture the_collection %}{{page.collection}}{% endcapture %}
 {% if page.collection %}
-	{% assign  document = site[the_collection] | sort: "week"   %}
+	{% assign  document = site[the_collection] | sort: "class"   %}
 {% endif %}
 {% for links in document %}
   {% if links.title == page.title %}
