@@ -1,11 +1,11 @@
-# Digital Humanities for the Ancient World - Syllabus
+# Parthenon Project for Digital Humanities in the Ancient World 
 
-The University of Chicago | Green Hall 117 | Mon Wed Fri: 02:30 PM-03:20 PM
+This project conducts an analysis of the Parthenon Marbles, its history, the locations of its current pieces, and the debate surround the repatriation of the piece of the frieze located in the British Museum. The project also includes a link to a live site adapted from the software Peripleo with links to the museums where fragments of the Parthenon marbles are held.
 
-[Georgios Tsolakis](https://tsolakisgeo.github.io/)
+Taught by: [Georgios Tsolakis](https://tsolakisgeo.github.io/)
 
-The syllabus is base on [gh-syllabus](https://github.com/jan-martinek/gh-syllabus), a template for a [Github Pages](https://pages.github.com) hosted syllabus, by [Jan Martinek](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages).
+See the [live site](https://ucshama.github.io/peripleoDHAW/) generated from this repo.
 
-See the [live site](https://tsolakisgeo.github.io/DHAW2022/) generated from this repo.
+The websited is based on [gh-syllabus](https://github.com/jan-martinek/gh-syllabus), a template for a [Github Pages](https://pages.github.com) hosted syllabus, by [Jan Martinek](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages).
 
 Licensed under [MIT License](./LICENSE).
