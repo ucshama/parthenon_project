@@ -1,5 +1,5 @@
 ---
-title: "want to check"
+title: "Parthenon Project DHAW 2022"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
