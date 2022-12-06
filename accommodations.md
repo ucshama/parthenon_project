@@ -1,5 +1,5 @@
 ---
-title: Student Accomondations
+title: ur mom
 layout: page
 menuItem: Student Accomondations
 menuPosition: 7
