@@ -2,7 +2,7 @@
 
 This project conducts an analysis of the Parthenon Marbles, its history, the locations of its current pieces, and the debate surround the repatriation of the piece of the frieze located in the British Museum. The project also includes a link to a live site adapted from the software Peripleo with links to the museums where fragments of the Parthenon marbles are held.
 
-Taught by: [Georgios Tsolakis](https://tsolakisgeo.github.io/)
+Taught by: [Georgios Tsolakis]
 
 See the [live site](https://ucshama.github.io/parthenon_project/) generated from this repo.
 
