@@ -6,6 +6,6 @@ Taught by: Georgios Tsolakis
 
 See the [live site](https://ucshama.github.io/parthenon_project/) generated from this repo.
 
-The websited is based on [gh-syllabus](https://github.com/jan-martinek/gh-syllabus), a template for a [Github Pages](https://pages.github.com) hosted syllabus, by [Jan Martinek](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages).
+The websited is based on [gh-syllabus](https://github.com/jan-martinek/gh-syllabus), a template for a [Github Pages](https://pages.github.com) hosted syllabus, by [Jan Martinek](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages), and on Professor Tsolakis' reworking of the website.
 
 Licensed under [MIT License](./LICENSE).
