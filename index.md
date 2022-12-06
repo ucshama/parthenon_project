@@ -1,7 +1,7 @@
 ---
 title: "Parthenon Project DHAW 2022"
 layout: home
-menuItem: "Basic info"
+menuItem: "Home"
 menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
