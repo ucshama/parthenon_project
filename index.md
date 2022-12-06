@@ -10,8 +10,6 @@ menuPosition: 1
 
 ## Lectures/seminars
 
-Mondays, Wednesdays, Fridays 14:30-15:20
-
 Green Hall 117
 
 
