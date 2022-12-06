@@ -1,5 +1,5 @@
 ---
-title: "x"
+title: "want to check"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
