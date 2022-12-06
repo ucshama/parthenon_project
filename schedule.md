@@ -1,8 +1,8 @@
 ---
-title: Schedule
+title: Frieze
 layout: page
-menuItem: Schedule
-menuPosition: 7
+menuItem: Frieze
+menuPosition: 2
 ---
 
 <ol>
