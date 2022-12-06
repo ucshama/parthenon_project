@@ -1,7 +1,7 @@
 ---
-title: Grading
+title: Parthenon Marbles
 layout: page
-menuItem: Grading
+menuItem: Parthenon Marbles
 menuPosition: 4
 ---
 
