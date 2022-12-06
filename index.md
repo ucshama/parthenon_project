@@ -1,5 +1,5 @@
 ---
-title: "Digital Humanities for the Ancient World"
+title: "x"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
