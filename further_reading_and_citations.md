@@ -1,7 +1,7 @@
 ---
-title: Prerequisites
+title: Further Reading and Citations
 layout: page
-menuItem: Prerequisites
+menuItem: Further Reading and Citations
 menuPosition: 7
 ---
 
