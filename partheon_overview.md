@@ -2,6 +2,6 @@
 title: Parthenon Overview
 layout: page
 menuItem: Parthenon Overview
-menuPosition: 7
+menuPosition: 6
 ---
 ur mom
