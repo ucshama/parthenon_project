@@ -5,4 +5,7 @@ menuItem: Further Reading and Citations
 menuPosition: 7
 ---
 
-Further Reading and Citations
+Further Reading and Citations:
+
+This is a link to a publication by the British parliament on the Parthenon Sculptures, also known as the Elgin Marbles:
+https://publications.parliament.uk/pa/cm199900/cmselect/cmcumeds/371/0060806.htm
