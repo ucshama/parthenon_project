@@ -5,21 +5,5 @@ title: East Frieze
 tags: 
 ---
 
-## Assignment due: 
-- TBD 
-- TBD 
-
-## Before Class 
-- TBD 
-- TBD 
-
-## Reading 
-- TBD 
-- TBD 
-
-## Familiarize yourself with: 
-- TBD 
-- TBD 
-
-## Notes 
-- blah, blah, blah
+Block 1:
+<img src="{{ site.baseurl }}/eastfriezepics/east1.jpeg" width="100%">
