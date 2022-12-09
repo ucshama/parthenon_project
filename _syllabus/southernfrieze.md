@@ -1,8 +1,8 @@
 ---
 class: 4
-day: Wednesday, October 5
-title: test
-tags: [tag, tag]
+day: 
+title: Eastern Frieze
+tags: 
 ---
 
 ## Assignment due: 
