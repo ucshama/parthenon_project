@@ -1,7 +1,7 @@
 ---
-title: Frieze
+title: Frieze Overview
 layout: page
-menuItem: Frieze
+menuItem: Frieze Overview
 menuPosition: 3
 ---
 
