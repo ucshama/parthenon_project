@@ -27,7 +27,7 @@ Block 7:
 <img src="{{ site.baseurl }}/northfriezepics/north7.jpeg" width="100%">
 
 Block 8:
-<img src="{{ site.baseurl }}/northfriezepics/north8.jpeg" width="100%">
+<img src="{{ site.baseurl }}/northfriezepics/north8.jpeg" width="75%">
 
 Block 9:
 <img src="{{ site.baseurl }}/northfriezepics/north9.jpeg" width="100%">
@@ -42,16 +42,16 @@ Block 12:
 <img src="{{ site.baseurl }}/northfriezepics/north12.jpeg" width="100%">
 
 Block 13:
-<img src="{{ site.baseurl }}/northfriezepics/north13.jpeg" width="100%">
+<img src="{{ site.baseurl }}/northfriezepics/north13.jpeg" width="50%">
 
 Block 14:
-<img src="{{ site.baseurl }}/northfriezepics/north14.jpeg" width="100%">
+<img src="{{ site.baseurl }}/northfriezepics/north14.jpeg" width="75%">
 
 Block 15:
 <img src="{{ site.baseurl }}/northfriezepics/north15.jpeg" width="100%">
 
 Block 16:
-<img src="{{ site.baseurl }}/northfriezepics/north16.jpeg" width="100%">
+<img src="{{ site.baseurl }}/northfriezepics/north16.jpeg" width="75%">
 
 Block 17:
 <img src="{{ site.baseurl }}/northfriezepics/north17.jpeg" width="100%">
