@@ -2,7 +2,7 @@
 title: Other fragments 
 layout: page
 menuItem: Other fragments 
-menuPosition: 5
+menuPosition: 6
 ---
 
 The parts of the frieze that are in the British Museum makes up around 80 meters of the total frieze. 50 remaining meters are in the Acropolis museum, and the remaining few fragments are scattered across the various museums you can see below through the software Peripleo.
