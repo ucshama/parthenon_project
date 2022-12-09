@@ -17,7 +17,7 @@ There is a marshall at the beginning and end of the frieze and between them are 
 
 Some of the men bridling their horses, others are talking to each other or getting ready to mount their horses. As some horses are prancing, rearing, and beginnning to gallop, the block also conveys a sense of motion, evoking a sense of excitement for the procession and the remainder of the frieze. 
 
-<img src="{{ site.baseurl }}/westfriezepics/west2.jpg" width=50% height=50%>
+<img src="{{ site.baseurl }}/westfriezepics/west2.jpg" width="100%">
 
 
 
