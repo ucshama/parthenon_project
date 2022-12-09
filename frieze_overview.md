@@ -10,7 +10,6 @@ The Parthenon Frieze depicts a religious procession that takes place during the 
 {% assign syllabus = (site.syllabus | sort: "class") %}
 {% for class in syllabus %}
   <li>
-  	<a href="{{ site.baseurl }}{{ class.url }}">{{ class.title }}</a> 
   	{% for tag in class.tags %}
   		<b>#{{ tag }}</b>
   	{% endfor %}
