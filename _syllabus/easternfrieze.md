@@ -1,5 +1,5 @@
 ---
-class: 1
+class: 4
 day: Various Places
 title: Eastern Frieze
 tags: 
