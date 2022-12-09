@@ -1,5 +1,5 @@
 ---
-class: Digital Humanities in the Ancient World
+class: 2
 day: Acropolis Museum, British Museum
 title: Northern Frieze
 tags: 
