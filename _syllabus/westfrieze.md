@@ -21,7 +21,7 @@ Some of the men bridling their horses, others are talking to each other or getti
 
 <img src="{{ site.baseurl }}/westfriezepics/west3.jpg" width="100%">
 
-<img src="{{ site.baseurl }}/westfriezepics/west4.jpg" width="100%">
+<img src="{{ site.baseurl }}/westfriezepics/west4.jpg" width="100%" height="50%">
 
 In the center of this section of the frieze is a cavalry commander trying to restrain his rearing horse. It is also the only block in the entire frieze that is devoted to a singular man and horse. Because of its importance, some have suggested this block to be the work of Phidias instead of a collaboration between him and his assistants.
 
