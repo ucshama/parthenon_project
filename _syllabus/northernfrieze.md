@@ -1,7 +1,7 @@
 ---
 class: 2
 day: Acropolis Museum, British Museum
-title: Northern Frieze
+title: North Frieze
 tags: 
 ---
 
