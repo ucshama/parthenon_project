@@ -1,5 +1,5 @@
 ---
-class: 4
+class: Digital Humanities in the Ancient World
 day: Various Places
 title: Eastern Frieze
 tags: 
