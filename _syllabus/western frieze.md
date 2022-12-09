@@ -1,5 +1,5 @@
 ---
-class: Western Frieze
+class: 1
 day: Western Frieze
 title: Western Frieze
 tags: 
