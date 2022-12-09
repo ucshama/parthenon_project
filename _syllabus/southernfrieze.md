@@ -1,6 +1,6 @@
 ---
 class: 3
-day: Acropolis Museum, British Museum
+day: Various Places
 title: Southern Frieze
 tags: 
 ---
