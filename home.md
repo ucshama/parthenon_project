@@ -14,6 +14,10 @@ The project incoporates various tools that we learned about in our class, Digita
 
 The link to Peripleo can be found in the "Other Marbles" section of the toolbar. 
 
+In order to expand on the location of the Parthenon, I also embedded a link to Google Maps.
+
+That can be found in the "Parthenon Overview" section of the toolbar.
+
 Since we discussed 3D imaging and various softwares used to conduct 3D imaging in Digital Humanities in our class, I have also included links to various 3D models that could be found on Sketchfab (a site we engaged with). 
 
 The links to 3D images can be found in the "Parthenon Overview" section of the toolbar. 
