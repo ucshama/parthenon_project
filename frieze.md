@@ -2,7 +2,7 @@
 title: Frieze
 layout: page
 menuItem: Frieze
-menuPosition: 2
+menuPosition: 3
 ---
 
 <ol>
