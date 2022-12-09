@@ -22,3 +22,7 @@ Since we discussed 3D imaging and various softwares used to conduct 3D imaging i
 
 The links to 3D images can be found in the "Parthenon Overview" section of the toolbar. 
 
+I also utilized the skills that I gained through learning HTML this quarter by editing the existing HTML framework of a general syllabus site formated by my professor to incorporate my needs for this class. This included things like changing the layout of the website and figuring out how to imbed images of various sizes with varying levels of frequency. 
+
+
+
