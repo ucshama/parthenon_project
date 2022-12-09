@@ -1,8 +1,8 @@
 ---
 class: 2
-day: 
+day: Acropolis Museum, British Museum
 title: Northern Frieze
-tags: [Northern, Frieze]
+tags: 
 ---
 
 ## Assignment due: 
