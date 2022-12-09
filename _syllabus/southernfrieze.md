@@ -1,7 +1,7 @@
 ---
 class: 3
 day: Various Places
-title: Southern Frieze
+title: South Frieze
 tags: 
 ---
 
