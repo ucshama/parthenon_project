@@ -2,7 +2,7 @@
 title: Parthenon Overview
 layout: page
 menuItem: Parthenon Overview
-menuPosition: 6
+menuPosition: 2
 ---
 
 The Parthenon is one of the most famous monuments in history. As a symbol of Classical history, it remains emblematic of Classical Greece and its civilzation's influence on history. The Parthenon is located on the Acropolis of Athens, an illustrious hill in the center of Athens and, one would argue, also a center of Athenian culture and democracy - a large part because of the Parthenon. There is evidence that the hill was occupied since the fourth millennium BCE and the hill later expanded into an important part of Athens under the leadership of Pericles who oversaw the development of structures like Parthenon, the Erechtheion, the Propylaea, and the Temple of Athena Nike. Most of the valuable artifacts from the Acropolis are now stored in the Acropolis Museum at the foot of the Acropolis.
