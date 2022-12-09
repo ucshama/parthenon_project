@@ -1,6 +1,6 @@
 ---
 class: 1
-day: Western Frieze
+day: 
 title: Western Frieze
 tags: 
 ---
