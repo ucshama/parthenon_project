@@ -4,6 +4,7 @@ layout: page
 menuItem: Frieze Overview
 menuPosition: 3
 ---
+The Parthenon Frieze depicts a religious procession that takes place during the [Panathenaic](https://en.wikipedia.org/wiki/Panathenaea) which was one the most important festivals in ancient Athens. It is made of [Pentelic](https://en.wikipedia.org/wiki/Mount_Pentelicus#Pentelic_marble) Marble from Mount Pentelicus which is white with a uniform, slight yellow tint.
 
 <ol>
 {% assign syllabus = (site.syllabus | sort: "class") %}
