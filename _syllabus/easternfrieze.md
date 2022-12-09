@@ -1,6 +1,6 @@
 ---
 class: 4
-day: 
+day: Various Places
 title: Eastern Frieze
 tags: 
 ---
