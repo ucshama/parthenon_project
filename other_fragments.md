@@ -4,4 +4,8 @@ layout: page
 menuItem: Other fragments 
 menuPosition: 5
 ---
-“Diversity is critical to the process of discovery. Here, different backgrounds, viewpoints, and perspectives are not only sought after and encouraged, they are the building blocks that make rigorous inquiry possible” ([Diversity & Inclusion](https://diversityandinclusion.uchicago.edu/)). In this class, we will engage in discussion with empathy for all participants. I am committed to give equal opportunity for all students. Your suggestions are encouraged and appreciated.
+
+Inserted below is the link to Peripleo and the various fragments of the frieze:
+<iframe src="https://ucshama.github.io/peripleoDHAW/#/3.37/7.2167/44.2475/mode=points" width="100%" height="100%"></iframe>
+
+
