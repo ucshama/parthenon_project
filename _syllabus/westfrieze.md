@@ -10,5 +10,4 @@ The West Frieze faced the entrance to the Acropolis, and shows the start of the 
 
 There is a marshall at the beginning and end of the frieze and between them are various carvings of horsemen and horses in different poses.
 
-<img src="https://projects.mcah.columbia.edu/parthenon-frieze/img/west1.jpg" width=50% height=50%>
-
+<img src="https://user-images.githubusercontent.com/115111912/206790955-10b423df-4e42-4657-b4e5-3dac999a8382.jpeg" width=50% height=50%>
