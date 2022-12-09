@@ -4,6 +4,7 @@ day: Acropolis Museum, British Museum
 title: North Frieze
 tags: 
 ---
+hi 
 
 Block 1:
 <img src="{{ site.baseurl }}/northfriezepics/north1.jpeg" width="100%">
