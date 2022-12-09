@@ -1,6 +1,6 @@
 ---
 class: 2
-day: Northern Frieze
+day: 
 title: Northern Frieze
 tags: [Northern, Frieze]
 ---
