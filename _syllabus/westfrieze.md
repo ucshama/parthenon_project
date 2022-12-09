@@ -13,11 +13,11 @@ The following section of the website will analyze the individual blocks of the w
 
 There is a marshall at the beginning and end of the frieze and between them are various carvings of horsemen and horses in different poses.
 
-<img src="{{ site.baseurl }}/westfriezepics/west1.jpg" width="100%">
+<img src="westfriezepics/west1.jpg" width="100%">
 
 Some of the men bridling their horses, others are talking to each other or getting ready to mount their horses. As some horses are prancing, rearing, and beginnning to gallop, the block also conveys a sense of motion, evoking a sense of excitement for the procession and the remainder of the frieze. 
 
-<img src="{{ site.baseurl }}/westfriezepics/west2.jpg" width=50% height=50%>
+<img src="westfriezepics/west2.jpg" width=50% height=50%>
 
 
 
