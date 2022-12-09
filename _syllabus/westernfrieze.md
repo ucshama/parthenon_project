@@ -1,6 +1,6 @@
 ---
 class: 1
-day: 
+day: Acropolis Museum, British Museum
 title: Western Frieze
 tags: 
 ---
