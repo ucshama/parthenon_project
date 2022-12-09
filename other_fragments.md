@@ -9,3 +9,5 @@ The parts of the frieze that are in the British Museum makes up around 80 meters
 
 <iframe src="https://ucshama.github.io/peripleoDHAW/#/3.37/7.2167/44.2475/mode=points" style="width:100%; height:50vw;"></iframe>
 
+The [fragment] (http://penelope.uchicago.edu/~grout/encyclopaedia_romana/miscellanea/townley/elgin.html) in the Museé de Louvre  
+
