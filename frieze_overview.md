@@ -14,6 +14,6 @@ The Parthenon Frieze depicts a religious procession that takes place during the 
   	{% for tag in class.tags %}
   		<b>#{{ tag }}</b>
   	{% endfor %}
-  </li>
+  	({{ class.day }})</li>
 {% endfor %}
 </ol>
