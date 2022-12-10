@@ -1,7 +1,7 @@
 ---
-title: Further Reading and Citations
+title: Further Reading
 layout: page
-menuItem: Further Reading and Citations
+menuItem: Further Reading 
 menuPosition: 8
 ---
 
