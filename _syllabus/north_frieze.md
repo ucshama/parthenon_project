@@ -7,6 +7,7 @@ tags:
 This frieze is divided as it resides partly in the British Museum and partly in the Acropolis museum. The scenes begin at the northwest corner as a continuation of the procession which started on the west side. The action develops gradually and from quiet preparation accelerates to a gallop which is mirrored in the activity of the subjects within the artwork. Even though they may have taken place at a another time or place, these scenes are said to represent activities that were part of the festival of the Panathenaia. The North Frieze was impacted by the damage done to the Parthenon by the Venetians but we can still see remains of the pieces that were lost as they continue to exist in the form of drawings and sketches. This page incorporates those drawings alongside the remaining marbles.
 
 Fragment 1:
+The northeast block has been lost so it remains in the form of a drawing.
 <img src="{{ site.baseurl }}/northfriezepics/north1.jpeg" width="100%">
 
 Fragment 2:
@@ -22,6 +23,7 @@ Fragment 5:
 <img src="{{ site.baseurl }}/northfriezepics/north5.jpeg" width="100%">
 
 Fragment 6:
+Musicians are featured in this fragment. There are four flutists and four cithara players.
 <img src="{{ site.baseurl }}/northfriezepics/north6.jpeg" width="100%">
 
 Fragment 7:
