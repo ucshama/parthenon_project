@@ -6,10 +6,10 @@ tags:
 ---
 
 Section 1:
-<img src="{{ site.baseurl }}/eastfriezepics/east1.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east1.jpeg" width="100%" height="50%">
 
 Section 2:
-<img src="{{ site.baseurl }}/eastfriezepics/east2.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east2.jpeg" width="100%" height="50%">
 
 Section 3:
 <img src="{{ site.baseurl }}/eastfriezepics/east3.jpeg" width="100%">
