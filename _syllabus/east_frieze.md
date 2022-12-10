@@ -38,6 +38,7 @@ Section 9:
 <img src="{{ site.baseurl }}/eastfriezepics/east9.jpeg" width="100%">
 
 Section 10:
+Athena sits next to the peplos. On her knees she holds the aigis, an apotropaic goatskin; in her right hand is her spear. Next to her sits Hephaistos, god of fire and metallurgy, leaning on his club.
 <img src="{{ site.baseurl }}/eastfriezepics/east10.jpeg" width="100%">
 
 Section 11:
