@@ -30,7 +30,7 @@ Fragment 7:
 <img src="{{ site.baseurl }}/northfriezepics/north7.jpeg" width="100%">
 
 Fragment 8:
-<img src="{{ site.baseurl }}/northfriezepics/north8.jpeg" width="100%" height=50>
+<img src="{{ site.baseurl }}/northfriezepics/north8.jpeg" width="500" height="600">
 
 Fragment 9:
 <img src="{{ site.baseurl }}/northfriezepics/north9.jpeg" width="100%">
@@ -48,13 +48,13 @@ Fragment 13:
 There is a fragment missing that would have shown a scene of horseman.
 
 Fragment 14:
-<img src="{{ site.baseurl }}/northfriezepics/north14.jpeg" width="100%" height="50">
+<img src="{{ site.baseurl }}/northfriezepics/north14.jpeg" width="500" height="600">
 
 Fragment 15:
-<img src="{{ site.baseurl }}/northfriezepics/north15.jpeg" width="100%" height="50">
+<img src="{{ site.baseurl }}/northfriezepics/north15.jpeg" width="500" height="600">
 
 Fragment 16:
-<img src="{{ site.baseurl }}/northfriezepics/north16.jpeg" width="100%" height="50">
+<img src="{{ site.baseurl }}/northfriezepics/north16.jpeg" width="500" height="600">
 
 Fragment 17:
 Of the block in the middle, the only part preserved is part of a rider and his tunic.
