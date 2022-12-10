@@ -4,11 +4,10 @@ day: Various Places
 title: South Frieze
 tags: 
 ---
+According to the British Museum, the "southern branch of the procession follows a similar pattern to the northern." The North frieze has sixty horsemen carved over nineteen blocks while the South frieze has the same number carved over twenty-four blocks. Ten groups of six in the South cavalcade, distinguished by different kinds of dresses, probably represent the division of the Athenian cavalry into ten tribal units. The horsemen of the south frieze are less well preserved than those of the north and the composition is shown to be less varied. The explosion of the Parthenon in 1687 damaged the South frieze the most so it is the least well preserved of all of the elements of the frieze.
 
-Segment 1:
-<img src="{{ site.baseurl }}/southfriezepics/south1.jpeg" width="100%">
-
-Segment 2:
+Segment 1 & 2:
+At the west end of the south side begins one of the two processional files. It starts with a marshall, a teletarches or supervisor of the festival.Near the corner at the left, the marshal1 can be seen behind the horseman. 
 <img src="{{ site.baseurl }}/southfriezepics/south2.jpeg" width="100%">
 
 Segment 3:
@@ -42,6 +41,7 @@ Segment 12:
 <img src="{{ site.baseurl }}/southfriezepics/south12.jpeg" width="100%">
 
 Segment 13:
+Right before this segment, Block 22 has been lost.
 <img src="{{ site.baseurl }}/southfriezepics/south13.jpeg" width="100%">
 
 Segment 14:
@@ -81,4 +81,5 @@ Segment 25:
 <img src="{{ site.baseurl }}/southfriezepics/south25.jpeg" width="100%">
 
 Segment 26:
+The procession of bulls, herdsmen and marshals comes to an end. The head of the procession is punctuated by the figure of the leader who looks toward the viewer.
 <img src="{{ site.baseurl }}/southfriezepics/south26.jpeg" width="100%">
