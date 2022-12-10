@@ -24,7 +24,7 @@ The scene reminds one of a corresponding one on block 12 with the horse in the m
 <img src="{{ site.baseurl }}/westfriezepics/west3.jpg" width="100%">
 
 Block 4:
-<img src="{{ site.baseurl }}/westfriezepics/west4.jpg" width="1000" height="500">
+<img src="{{ site.baseurl }}/westfriezepics/west4.jpg" width="1000" height="1000">
 
 Block 5:
 In the center of this section of the frieze is a cavalry commander trying to restrain his rearing horse. It is also the only block in the entire frieze that is devoted to a singular man and horse. Because of its importance, some have suggested this block to be the work of Phidias instead of a collaboration between him and his assistants. Many who see mythological representations in the frieze identify this figure as the mythical hero or king, such as Theseus of Athens. 
