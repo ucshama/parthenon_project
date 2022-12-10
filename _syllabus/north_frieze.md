@@ -45,7 +45,7 @@ Fragment 12:
 <img src="{{ site.baseurl }}/northfriezepics/north12.jpeg" width="100%">
 
 Fragment 13:
-<img src="{{ site.baseurl }}/northfriezepics/north13.jpeg" width="100%">
+There is a fragment missing that would have shown a scene of horseman.
 
 Fragment 14:
 <img src="{{ site.baseurl }}/northfriezepics/north14.jpeg" width="100%">
@@ -57,6 +57,7 @@ Fragment 16:
 <img src="{{ site.baseurl }}/northfriezepics/north16.jpeg" width="100%">
 
 Fragment 17:
+Of the block in the middle, the only part preserved is part of a rider and his tunic.
 <img src="{{ site.baseurl }}/northfriezepics/north17.jpeg" width="100%">
 
 Fragment 18:
@@ -81,4 +82,7 @@ Fragment 24:
 <img src="{{ site.baseurl }}/northfriezepics/north24.jpeg" width="100%">
 
 Fragment 25:
+This scene seems to echo the beginning of the frieze, especially the first Western block. It is a continuation of the preparation for the procession as the men are yet to mount their horses. 
 <img src="{{ site.baseurl }}/northfriezepics/north25.jpeg" width="100%">
+
+The full North Frieze can be accessed [here](https://projects.mcah.columbia.edu/parthenon-frieze/north.html).
