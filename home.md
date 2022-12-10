@@ -10,19 +10,10 @@ menuPosition: 1
 
 This project examines the Parthenon Frieze, the locations of remaining fragments, the debate over the Parthenon Sculptures (a section of the frieze held in the British Museum), and an overview of the Parthenon and its relevence to both ancient history and modernity.
 
-The project incoporates various tools that we learned about in our class, Digital Humanities in the Ancient World taught by Georgios Tsolakis. It uses Peripleo, a software developed by the British museum to showcase an overview of artifacts with links to descriptions, in order to conduct an analysis of various fragments of the frieze. Using Peripleo shows the magnitude of how scattered the fragments of the frieze are and allows users to interact with the institutions that hold those fragments. 
-
-The link to Peripleo can be found in the "Other Marbles" section of the toolbar. 
-
-In order to expand on the location of the Parthenon, I also embedded a link to Google Maps.
-
-That can be found in the "Parthenon Overview" section of the toolbar.
-
-Since we discussed 3D imaging and various softwares used to conduct 3D imaging in Digital Humanities in our class, I have also included links to various 3D models that could be found on Sketchfab (a site we engaged with). 
-
-The links to 3D images can be found in the "Parthenon Overview" section of the toolbar. 
+The project incoporates various tools that we learned about in our class, Digital Humanities in the Ancient World taught by Georgios Tsolakis. It uses Peripleo, a software developed by the British museum to showcase an overview of artifacts with links to descriptions, in order to conduct an analysis of the distance between various fragments of the frieze. Using Peripleo shows the magnitude of how scattered the fragments of the frieze are and allows users to interact with the institutions that hold those fragments. The link to Peripleo can be found in the "Other Marbles" section of the toolbar. In order to expand on the location of the various museums I talk about, I also embedded a link to Google Maps. That can be found in the "Parthenon Overview" section of the toolbar. Additionally, since we discussed 3D imaging and various softwares used to conduct 3D imaging in Digital Humanities in our class, I have also included links to various 3D models that could be found on Sketchfab (a site we engaged with). The links to 3D images can be found in the "Parthenon Overview" section of the toolbar and in the "Parthenon Sculptures in the British Museum" section found in the toolbar. 
 
 I also utilized the skills that I gained through learning HTML this quarter by editing the existing HTML framework of a general syllabus site formated by my professor to incorporate my needs for this class. This included things like changing the layout of the website and figuring out how to imbed images of various sizes with varying levels of frequency. 
 
 
+I wanted to conduct this analysis of the Parthenon Sculptures and the Parthenon as a structure in light of the recent news that the British Museum is in talks to come to a solution with Greece after the ascension of Rishi Sunak as prime minister. The Parthenon Sculptures have always been a source of interest for me as the debate around them has been going on for so long - since their 
 
