@@ -85,4 +85,4 @@ Fragment 25:
 This scene seems to echo the beginning of the frieze, especially the first Western block. It is a continuation of the preparation for the procession as the men are yet to mount their horses. 
 <img src="{{ site.baseurl }}/northfriezepics/north25.jpeg" width="100%">
 
-The full North Frieze can be accessed [here](https://projects.mcah.columbia.edu/parthenon-frieze/north.html).
+The full North Frieze in a side-by-side format can be accessed [here](https://projects.mcah.columbia.edu/parthenon-frieze/north.html).
