@@ -18,7 +18,7 @@ Section 4:
 <img src="{{ site.baseurl }}/eastfriezepics/east4.jpeg" width="100%">
 
 Section 5:
-<img src="{{ site.baseurl }}/eastfriezepics/east5.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east5.jpeg" width="100%" height="50%">
 
 Section 6:
 <img src="{{ site.baseurl }}/eastfriezepics/east6.jpeg" width="100%">
@@ -42,25 +42,25 @@ Section 12:
 <img src="{{ site.baseurl }}/eastfriezepics/east12.jpeg" width="100%">
 
 Section 13:
-<img src="{{ site.baseurl }}/eastfriezepics/east13.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east13.jpeg" width="100%" height="50%">
 
 Section 14:
-<img src="{{ site.baseurl }}/eastfriezepics/east14.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east14.jpeg" width="100%" height="50%">
 
 Section 15:
-<img src="{{ site.baseurl }}/eastfriezepics/east15.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east15.jpeg" width="100%" height="50%">
 
 Section 16:
-<img src="{{ site.baseurl }}/eastfriezepics/east16.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east16.jpeg" width="100%" height="50%">
 
 Section 17:
-<img src="{{ site.baseurl }}/eastfriezepics/east17.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east17.jpeg" width="100%" height="50%">
 
 Section 18:
-<img src="{{ site.baseurl }}/eastfriezepics/east18.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east18.jpeg" width="100%" height="50%">
 
 Section 19:
-<img src="{{ site.baseurl }}/eastfriezepics/east19.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east19.jpeg" width="100%" height="50%">
 
 Section 20:
-<img src="{{ site.baseurl }}/eastfriezepics/east20.jpeg" width="100%">
+<img src="{{ site.baseurl }}/eastfriezepics/east20.jpeg" width="100%" height="50%">
